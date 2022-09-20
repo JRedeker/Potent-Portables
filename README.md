@@ -9,3 +9,8 @@ You don't want to install stuff.  You don't want to even open a webpage and have
 
 ## Sorry, why this project?  Why Not xx?
 This saves time spent searching and collecting.  Most people don't even know what they're looking for on long lists of portable app downloads.
+
+
+# List of portables available via this tool;
+1 https://github.com/yt-dlp/yt-dlp#general-options
+2
